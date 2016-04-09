@@ -4,6 +4,8 @@ function run(msg, matches)
   return [[B1GAPTEA
   
   Bot Version : 1.0.0
+  
+  For more Information B1GapBot to chat ]]
 end
 
 return {
